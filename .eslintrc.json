@@ -1,0 +1,8 @@
+{
+  "root": true,
+  "extends": ["coderdojo"],
+  "rules": {
+    "linebreak-style": "off",
+    "no-console": ["error", { "allow": ["log", "error"] }]
+  }
+}
